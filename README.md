@@ -2,5 +2,5 @@
 ### Eu gosto de programar!
 <hr>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosPires3b&theme=synthwave&show_icons=true) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosPires3b&theme=tokyonight&show_icons=true) 
 
