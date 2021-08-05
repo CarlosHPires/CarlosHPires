@@ -1,22 +1,36 @@
-# Sobre mim 💬!
+# Olá!! Eu sou o Carlos 🤙
+
+## Sobre mim 💬!
 ### - Eu tenho 20 anos de idade, sou estudante de Análise e Desenvolvimento de Sistemas e trabalho na Ambev Tech(HUB de tecnologia da Ambev).
+<div display: "inline_block">
 
-<img align="center"  heigth="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/60518820/128306092-677b37c4-b48c-44e1-a1e6-fa6599673963.gif">
+<img src="https://user-images.githubusercontent.com/60518820/128395849-06e841bc-7c73-4b78-b61c-a5298b698edf.gif" width="1000" height="500" >
 
-### - Learning :
-- ✨ JavaScript
+<p align="left">
+  
+### - Aprendendo :
+- ✨ JavaScript 
 - ✨ ReactJs
 - ✨ Php
-
+  
 ### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime/Series/Movies
-- ✨ Airsoft
+- 🎮 Gaming
+- 📺 Watching Animes/Series/Movies
+- 🔫 Airsoft
+ </p>
+ 
+### - Languages & Tools :
 
-<hr>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</a>
+
+
+
+</div>
+
 </br>
-
-<div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPires3b&theme=cobalt&include_all_commits=true&show_icons=true" />
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPires3b&layout=compact&langs_count=16&theme=cobalt" />
+<div display: "inline_block">
+<img heigth="180px" src="https://github-readme-stats.vercel.app/api?username=CarlosPires3b&theme=dark&include_all_commits=true&show_icons=true" />
+<img heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPires3b&layout=compact&langs_count=16&theme=dark" />
 </div>
