@@ -1,6 +1,8 @@
-![cyberpunk](https://user-images.githubusercontent.com/60518820/96678049-453a8180-1347-11eb-8f68-0bb7989649be.gif)
+
 ### Eu gosto de programar!
 <hr>
-
-![Carlos Pires github stats](https://github-readme-stats.vercel.app/api?username=CarlosPires3b&theme=cobalt&show_icons=true) 
+<div>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPires3b&theme=cobalt&show_icons=true" />
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPires3b&layout=compact&langs_count=16&theme=cobalt" />
+</div>
 
