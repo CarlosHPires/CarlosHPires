@@ -4,6 +4,16 @@
 
 <img alt="GIF" align="rigth" src="https://user-images.githubusercontent.com/60518820/128306092-677b37c4-b48c-44e1-a1e6-fa6599673963.gif">
 
+### - Learning :
+- ✨ JavaScript
+- ✨ ReactJs
+- ✨ Php
+
+### - Hobbies : 
+- ✨ Gaming
+- ✨ Watching Anime/Series/Movies
+- ✨ Airsoft
+
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPires3b&theme=cobalt&show_icons=true" />
