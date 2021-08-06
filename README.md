@@ -55,7 +55,7 @@
    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDb">
 </a>
 
-### - Framework - Platform - Library:
+### - Framework - Platform - Library :
 
 <a href="#">
    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
