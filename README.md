@@ -4,7 +4,7 @@
 ### - Eu tenho 21 anos de idade, sou estudante de Análise e Desenvolvimento de Sistemas e trabalho na Ambev Tech(HUB de tecnologia da Ambev).
 <div display: "inline_block">
 
-<img src="https://user-images.githubusercontent.com/60518820/128395849-06e841bc-7c73-4b78-b61c-a5298b698edf.gif" width="1000" height="500" >
+<img src="https://www.to-focus.com/wp-content/uploads/2019/03/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE.gif" width="1000" height="500" >
 
 <p align="left">
   
@@ -16,7 +16,6 @@
 ### - Hobbies ⭐ :
 - 🎮 Gaming
 - 📺 Watching Animes/Series/Movies
-- 🔫 Airsoft
  </p>
  
 ### - Language:
