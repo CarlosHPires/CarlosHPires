@@ -1,6 +1,6 @@
 # Hi. I am Carlos 🕵️
 
-## Sobre mim 💬!
+## About me 💬!
 ### - I'm 21 years old, I'm a Systems Analysis and Development student and I work at Ambev Tech (Ambev's technology HUB).
 <div display: "inline_block">
 
