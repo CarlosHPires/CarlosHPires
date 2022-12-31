@@ -4,7 +4,7 @@
 ### - I'm 21 years old, I'm a Systems Analysis and Development student and I work at Ambev Tech (Ambev's technology HUB).
 <div display: "inline_block">
 
-<img src="https://www.to-focus.com/wp-content/uploads/2019/03/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE.gif" width="1000" height="500" >
+<img src="https://www.to-focus.com/wp-content/uploads/2019/03/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE.gif" width="1000" height="500">
 
 <p align="left">
   
