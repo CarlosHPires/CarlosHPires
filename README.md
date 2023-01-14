@@ -11,7 +11,6 @@
 ### - Learning 📚 :
 - ✨ JavaScript 
 - ✨ ReactJs
-- ✨ Php
   
 ### - Hobbies ⭐ :
 - 🎮 Gaming
