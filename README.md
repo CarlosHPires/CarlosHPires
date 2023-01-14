@@ -107,7 +107,7 @@
 </br>
 
 <div display: "inline_block">
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=dark&include_all_commits=true&show_icons=true" width="480" height="180"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHPires&layout=compact&langs_count=16&theme=dark" width="360" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=dark&include_all_commits=true&show_icons=true" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHPires&layout=compact&langs_count=16&theme=dark" width="360" height="180"/>
 
 </div>
