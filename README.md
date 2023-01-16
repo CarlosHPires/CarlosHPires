@@ -107,8 +107,8 @@
 </br>
 
 <div display: "inline_block">
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true" max-width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true" width="100%"/>
 <img src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHPires&layout=compact&langs_count=16&theme=tokyonight" max-width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHPires&layout=compact&langs_count=16&theme=tokyonight" width="100%"/>
 
 </div>
