@@ -17,7 +17,7 @@
 - 📺 Watching Animes/Series/Movies
  </p>
  
-### - Language:
+## - Language:
 
 <a href="#">
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -39,7 +39,7 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </a>
 
-### - Database:
+## - Database:
 
 <a href="#">
    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SqlServer">
@@ -53,7 +53,7 @@
    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDb">
 </a>
 
-### - Framework - Platform - Library :
+## - Framework - Platform - Library :
 
 <a href="#">
    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
@@ -83,7 +83,7 @@
    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony">
 </a>
 
-### - Version Control:
+## - Version Control:
 
 <a href="#">
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -96,6 +96,8 @@
 <a href="#">
    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git">
 </a>
+
+## 📊GitHub Stats
 
 <hr>
 
