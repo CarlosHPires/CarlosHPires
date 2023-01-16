@@ -71,7 +71,6 @@
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
 </a>
 
-
 <a href="#">
    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </a>
@@ -83,8 +82,6 @@
 <a href="#">
    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony">
 </a>
-
-
 
 ### - Version Control:
 
@@ -107,7 +104,7 @@
 </br>
 
 <div display: "inline">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight"/>
+<img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true"/>
+<img height="180em" width="440px" src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight"/>
 
 </div>
