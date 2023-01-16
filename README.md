@@ -99,8 +99,6 @@
 
 ## 📊GitHub Stats
 
-<hr>
-
 </div>
 
 </br>
