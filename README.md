@@ -104,7 +104,7 @@
 </br>
 
 <div display: "flex">
-<img gap="10px" height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true"/>
-<img gap="10px" height="180em" width="420px" src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight"/>
+<img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&hide_border=true"/>
+<img height="180em" width="420px" src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight&hide_border=true"/>
 
 </div>
