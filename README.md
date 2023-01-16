@@ -106,7 +106,7 @@
 
 </br>
 
-<div display: "flex">
+<div display: "inline-block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true"/>
 <img height="180em" src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight"/>
 
