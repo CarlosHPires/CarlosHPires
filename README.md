@@ -103,8 +103,8 @@
 
 </br>
 
-<div display: "inline">
-<img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true"/>
-<img height="180em" width="440px" src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight"/>
+<div display: "flex">
+<img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=CarlosHPires&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true"/>
+<img height="180em" width="420px" src="https://streak-stats.demolab.com?user=CarlosHPires&theme=tokyonight"/>
 
 </div>
