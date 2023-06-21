@@ -7,10 +7,6 @@
 
 <p align="left">
   
-### - Learning 📚 :
-- ✨ JavaScript 
-- ✨ ReactJs
-  
 ### - Hobbies ⭐ :
 - 🎮 Gaming
 - 📺 Watching Animes/Series/Movies
